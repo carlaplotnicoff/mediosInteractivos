@@ -5,3 +5,4 @@ Ejercicio de la clase diseño medios interactivos
 3. [Repetición segundo intento](https://carlaplotnicoff.github.io/mediosInteractivos/02%20(correccion)/)
 4. [Flip Book](https://carlaplotnicoff.github.io/mediosInteractivos/03)
 4. [Herramienta de dibujo](https://carlaplotnicoff.github.io/mediosInteractivos/04)
+5. [Reloj](https://carlaplotnicoff.github.io/mediosInteractivos/05)
