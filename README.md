@@ -6,3 +6,4 @@ Ejercicio de la clase diseño medios interactivos
 4. [Flip Book](https://carlaplotnicoff.github.io/mediosInteractivos/03)
 4. [Herramienta de dibujo](https://carlaplotnicoff.github.io/mediosInteractivos/04)
 5. [Reloj](https://carlaplotnicoff.github.io/mediosInteractivos/05)
+5. [Reloj (screenshots)](https://carlaplotnicoff.github.io/mediosInteractivos/05fotos.zip)
