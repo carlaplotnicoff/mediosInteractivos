@@ -8,3 +8,4 @@ Ejercicio de la clase diseño medios interactivos
 5. [Reloj](https://carlaplotnicoff.github.io/mediosInteractivos/05)
 5. [Reloj (screenshots)](https://carlaplotnicoff.github.io/mediosInteractivos/05fotos.zip)
 6. [Video interactivo](https://carlaplotnicoff.github.io/mediosInteractivos/06)
+7. [Ecosistema](https://carlaplotnicoff.github.io/mediosInteractivos/07)
