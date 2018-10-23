@@ -10,4 +10,4 @@ Ejercicio de la clase diseño medios interactivos
 6. [Video interactivo](https://carlaplotnicoff.github.io/mediosInteractivos/06)
 7. [Ecosistema](https://carlaplotnicoff.github.io/mediosInteractivos/07.1)
 7. [Ecosistema con dos interacciones](https://carlaplotnicoff.github.io/mediosInteractivos/08)
-8. [Avances Juego](https://carlaplotnicoff.github.io/mediosInteractivos/09 ESTE)
+8. [Avances Juego](https://carlaplotnicoff.github.io/mediosInteractivos/09ESTE)
