@@ -12,4 +12,5 @@ Ejercicio de la clase diseño medios interactivos
 8. [Ecosistema con dos interacciones](https://carlaplotnicoff.github.io/mediosInteractivos/08)
 9. [Avances Juego](https://carlaplotnicoff.github.io/mediosInteractivos/09ESTE)
 10. [Pizzeria juego](https://carlaplotnicoff.github.io/mediosInteractivos/10)
+11. [Videojuego final](https://carlaplotnicoff.github.io/mediosInteractivos/videojuego)
 
