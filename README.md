@@ -13,6 +13,6 @@ Ejercicio de la clase diseño medios interactivos
 9. [Avances Juego](https://carlaplotnicoff.github.io/mediosInteractivos/09ESTE)
 10. [Pizzeria juego](https://carlaplotnicoff.github.io/mediosInteractivos/10)
 11. [Videojuego individual](https://carlaplotnicoff.github.io/mediosInteractivos/juego)
-[link P5.js Videojuego individual](https://editor.p5js.org/carlaplotnicoff/full/SJeUTkL6Q)
-12.[final](https://carlaplotnicoff.github.io/mediosInteractivos/final)
+12.[link P5.js Videojuego individual](https://editor.p5js.org/carlaplotnicoff/full/SJeUTkL6Q)
+13.[final](https://carlaplotnicoff.github.io/mediosInteractivos/final)
 
