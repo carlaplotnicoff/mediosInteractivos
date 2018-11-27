@@ -44,7 +44,7 @@ var tamBot8 = 30;
 //botones seleccion jugador
 //1 jugador
 var posXbot9 = 450;
-var posYbot9 = 650;
+var posYbot9 = 700;
 var tamBot9 = 30;
 //2 jugadores
 var posXbot10 = 600;
