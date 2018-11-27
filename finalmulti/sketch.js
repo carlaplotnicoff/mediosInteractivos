@@ -1731,7 +1731,7 @@ function mouseReleased() {
       ellipse(posXbot5, posYbot5, 60, 60);
       //si no se atina al numero deingredientes se pierde
       if (idealChampis3 > idealChampis2 || idealChampis3 < idealChampis2 ||
-        idealCamarones3 > idealCamarones2 || idealCamarones < idealCamarones2 ||
+        idealCamarones3 > idealCamarones2 || idealCamarones3 < idealCamarones2 ||
         idealAnchoas3 > idealAnchoas2 || idealAnchoas3 < idealAnchoas2) {
 
         estado = 26;
@@ -1862,7 +1862,7 @@ function mouseReleased() {
         //si se espicha boton pepperoni y despues se hace click sobre la pizza sale pepperoni
         pepperoni[pepperoni.length] = new pepperoniPos(mouseX, mouseY);
         numPepperoni2 = numPepperoni2 + 1;
-        idealPerpperoni2 = idealPepperoni + 1;
+        idealPepperoni2 = idealPepperoni + 1;
       }
 
     }
