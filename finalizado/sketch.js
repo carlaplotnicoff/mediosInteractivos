@@ -44,16 +44,16 @@ var tamBot8 = 30;
 //botones seleccion jugador
 //1 jugador
 var posXbot9 = 450;
-var posYbot9 = 520;
+var posYbot9 = 650;
 var tamBot9 = 30;
 //2 jugadores
 var posXbot10 = 600;
-var posYbot10 = 520;
+var posYbot10 = 700;
 var tamBot10 = 30;
 
 //Boton para saber quien es el  jugador 1
 var posXbot11 = 620;
-var posYbot11 = 550;
+var posYbot11 = 700;
 var tamBot11 = 30;
 //Boton para continuar despues de escoger personaje
 var posXbot12 = 620;
